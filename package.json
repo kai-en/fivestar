@@ -1,0 +1,8 @@
+{
+ "name" : "WuXiaozheng",
+ "email" : "wu.will.china@outlook.com",
+ "url" : "http://li988-33.members.linode.com/",
+ "dependencies" : {
+  "koa":"*"
+ }
+}
